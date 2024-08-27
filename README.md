@@ -10,7 +10,6 @@ Merge: Integrates changes from different branches.
 GitHub is popular because it integrates with Git (a powerful version control system), offers collaborative features like pull requests, and supports issue tracking and project documentation.
 
 Version control maintains project integrity by:
-
 Recording History: Tracks all changes and authors, providing a clear project history.
 Enabling Rollbacks: Allows reverting to previous stable versions if issues arise.
 Facilitating Collaboration: Manages contributions from multiple developers and resolves conflicts.
